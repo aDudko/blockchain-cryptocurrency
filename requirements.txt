@@ -1,0 +1,6 @@
+pandas
+pycryptodomex
+requests
+flask
+flask_cors
+utils
