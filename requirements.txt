@@ -1,4 +1,3 @@
-pandas
 pycryptodomex
 requests
 flask
